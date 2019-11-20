@@ -1,0 +1,71 @@
+{"TestData": {
+    "DataSet": {
+        "Add": [
+            {
+                "key": "textboxUser_Login",
+				"value": "agent"
+                
+            },
+            {
+                "key": "textboxUser_Password",
+				"value": "password"
+                
+            }
+			
+        ],
+        "name": "UserCredentials"
+    },
+    "description": "Test Data of User from to login to application"
+	
+	"DataSet": {
+        "Add": [
+            {
+                "key": "textboxBook_Name",
+				"value": "Test_Automation"
+                
+            },
+            {
+                "key": "textboxBook_Description",
+				"value": "Test_Automation"
+                
+            }
+			    {
+                "key": "textboxBook_Source",
+				"value": "Test_Automation"
+                
+            }
+			    {
+                "key": "textboxAgent_Number",
+				"value": "Test_Automation"
+                
+            }
+			    {
+                "key": "textboxPrior_Carrier",
+				"value": "Test_Automation"
+                
+            }    {
+                "key": "textboxProject_Quote_ID",
+				"value": "Test_Automation"
+                
+            }
+			    {
+                "key": "textboxAgreement_ID",
+				"value": "Test_Automation"
+                
+            }
+			    {
+                "key": "textboxRegion_Code",
+				"value": "Test_Automation"
+                
+            }
+			    {
+                "key": "textboxAMS_System_Source",
+				"value": "Test_Automation"
+                
+            }
+        ],
+        "name": "AddBook"
+    },
+    "description": "Test Data of creating a new book"
+	
+}}
